@@ -77,20 +77,6 @@ joblib                  # Model persistence
 - 🎲 **Optimization:** L-BFGS parameter estimation
 - 📊 **Evaluation:** Comprehensive metrics and error analysis
 
-## 📈 Visualizations
-
-### Data Distribution
-![Ingredients Frequency](visualizations/ingredients_frequency.png)
-*Top 10 most frequent ingredients showing spice dominance*
-
-![Units Frequency](visualizations/units_frequency.png)
-*Common cooking measurements distribution*
-
-### Model Performance
-![Training Confusion Matrix](visualizations/training_confusion_matrix.png)
-![Validation Confusion Matrix](visualizations/validation_confusion_matrix.png)
-*Perfect diagonal patterns indicating 100% accuracy*
-
 ## 🎯 Business Applications
 
 ### Immediate Use Cases
