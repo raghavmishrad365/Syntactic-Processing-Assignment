@@ -18,7 +18,7 @@ This project implements a **Named Entity Recognition (NER)** system that achieve
 - ✅ **Comprehensive error analysis** framework
 - ✅ **Domain-specific feature engineering**
 
-## 📊 Results Summary
+## 📊 Results Summary 
 
 | Metric | Training | Validation |
 |--------|----------|------------|
